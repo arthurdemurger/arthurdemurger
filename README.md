@@ -2,7 +2,7 @@
 <h3 align="center">A learning developer from Brussels, member of 19 (42 Brussels) </h3>
 
 ## 42 cursus
-<h4> Click below to see all my 42 projects. </h3>
+<h4> ⬇️ Click below to see all my 42 projects ⬇️</h3>
 <p><img align="center" src="/img/project.png" alt="arthurdemurger" href="https://github.com/arthurdemurger/42-Cursus" /></p>
 
 ## Languages & tools
