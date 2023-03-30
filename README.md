@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Demurger</h1>
-<h3 align="center">A learning developer from Brussels</h3>
+<h3 align="center">A learning developer from Brussels, member of 19 (42 Brussels) </h3>
 
 ## 42 cursus
-- 👨‍💻 I’m a member of 19 school (42 network)
-<p><img align="center" src="/img/project.png" alt="arthurdemurger" /></p>
+<h3> Click below to see all my 42 projects. </h3>
+<p><img align="center" src="/img/project.png" alt="arthurdemurger" href="https://github.com/arthurdemurger/42-Cursus" /></p>
 
 ## Languages & tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
