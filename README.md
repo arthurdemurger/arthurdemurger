@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Demurger</h1>
-<h3 align="center">A learning developer from Brussels, member of 19 (42 Brussels) </h3>
+<h3 align="center">A learning developer from Brussels, student at HE Vinci & member of 19 (42 Brussels) </h3>
 
 ## 42 cursus
 <h4> ⬇️ Click below to see all my 42 projects ⬇️</h3>
